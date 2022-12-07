@@ -2,4 +2,4 @@
 
 Fast way of reading images (into array)
 
-used: TurboJPEG, multiprocessing
+used: TurboJPEG, multiThreading
